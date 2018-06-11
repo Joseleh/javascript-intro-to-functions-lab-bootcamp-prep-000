@@ -19,6 +19,7 @@ function logShout(string) {
     
     var A = "I cant hear you!"
     var B = "YES INDEED!"
+    var C = "I love you too"
   }
   
   
