@@ -12,7 +12,7 @@ function logShout(string) {
     console.log("hello")
   }
   function sayHiToGrandma(string) {
-    console.log("I can't hear you!")
+    console.log("hello = I can't hear you!")
     return(string)
   }
   
