@@ -17,7 +17,7 @@ function logShout(string) {
     }
   function sayHiToGrandma(string) {
     
-    var A = "I cant hear you!"
+    var A = "I can't hear you!"
     var B = "YES INDEED!"
     var C = "I love you, too."
     if (string.toLowerCase(string)=== string)
