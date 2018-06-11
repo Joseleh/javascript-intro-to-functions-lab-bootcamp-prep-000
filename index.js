@@ -23,7 +23,7 @@ function logShout(string) {
     return A;
     else if (string.toUpperCase(string) === string)
     return B;
-    else if ("I love you Grandma."=== string)
+    else if ("I love you, Grandma."=== string)
     return "I love you, too."
     
   } 
