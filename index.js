@@ -20,6 +20,12 @@ function logShout(string) {
     var A = "I cant hear you!"
     var B = "YES INDEED!"
     var C = "I love you, too."
+    if (string.toLowerCase(string)=== string)
+    return A;
+    esle if (string.toUpperCase(string) === string)
+    return B;
+    else if ("I love you Grandma."=== string)
+    return C
     
   }
   
