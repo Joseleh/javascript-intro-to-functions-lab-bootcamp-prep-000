@@ -13,7 +13,7 @@ function logShout(string) {
   }
   function sayHiToGrandma(string) {
     console.log("hello")
-    return  "I can't hear you!"
+    return  "I can't hear you! === YES INDEED"
     }
   function sayHiToGrandma(string) {
     console.log("I can't hear you!=== YES INDEED")
