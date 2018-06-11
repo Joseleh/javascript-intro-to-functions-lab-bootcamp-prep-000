@@ -15,6 +15,9 @@ function logShout(string) {
     console.log("hello")
     return  "I can't hear you!"
     }
-  
+  function sayHiToGradma(string) {
+    console.log("I can't hear you!")
+    return "YES INDEED!"
+  }
   
   
