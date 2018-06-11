@@ -22,11 +22,12 @@ function logShout(string) {
     var C = "I love you, too."
     if (string.toLowerCase(string)=== string)
     return A;
-    esle if (string.toUpperCase(string) === string)
+    else if (string.toUpperCase(string) === string)
     return B;
     else if ("I love you Grandma."=== string)
     return C
     
-  }
+  } 
+
   
   
